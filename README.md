@@ -1,3 +1,0 @@
-# hello-world
-teste básico
-Testando o github...
